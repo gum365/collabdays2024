@@ -2,7 +2,7 @@ title: CollabDays 2024
 description: > # this means to ignore newlines until "baseurl:"
   Your description
 baseurl: "/collabdays2024" # the subpath of your site, e.g. /blog
-url: "gum365.github.io" # the base hostname & protocol for your site
+url: "https://gum365.github.io/" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
