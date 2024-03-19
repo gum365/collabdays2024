@@ -33,3 +33,8 @@ social:
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+# Event details
+eventtitle: Collab Days 2024
+eventdate: 07/14/2024
+eventlocation: Montréal
